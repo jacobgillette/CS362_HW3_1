@@ -1,6 +1,6 @@
-#CS 362 HW 1 Question 4
+#CS 362 HW 3 Question 4
 #Jacob Gillette
-#1/14/21
+#1/29/21
 
 print("Enter a year to check whether it is a leap year or not")
 #Get user input
